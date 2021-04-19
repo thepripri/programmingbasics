@@ -7,12 +7,14 @@ system('clear')
 
 isNotZero = False 
 
+def printText(name):
+    print(f'hello, {name}')
+
 # --- Functions ----
-#        2     3
-def calculate(num1, num2, marker):
+def calculate(num1, num2, marker):    
     if(marker == 'add'):
         operation = num1 + num2 
-    elif(marker == 'substract'):
+    elif(marker == 'subtract'):
         operation = num1 - num2 
     elif(marker == 'multiply'):
         operation = num1 * num2 
@@ -28,14 +30,14 @@ def calculate(num1, num2, marker):
     elif(marker == 'power1'):
         operation = num1 ** num2 
     else:
-        operation = pow(num1, num2)
- 
+        operation = pow(num1, num2) 
     return operation
 
 
 # ----------- User input -----
 n1 = int(input('Enter first number >> '))
 n2 = int(input('Enter second number >> '))
+fname = input("What is your first name? >> ")
 # -------- end of User input ----
 
 # ---- Calling functions -----
@@ -46,6 +48,7 @@ division = calculate(n1, n2, 'divide')
 modulus = calculate(n1, n2, 'modulus')
 exponent1 = calculate(n1, n2, 'power1')
 exponent2 = calculate(n1, n2, 'power2')
+
 # ---- end of calling functions -----
 
 # -- Print values ----
@@ -56,3 +59,9 @@ print(f'The division of {n1} and {n2} is {division}')
 print(f'The modulus from division of {n1} and {n2} is {modulus}')
 print(f'{n1} elevated to the power of {n2} is {exponent1} from function powerOf1')
 print(f'{n1} elevated to the power of {n2} is {exponent2} from function powerOf2')
+
+
+print()
+print('---------------------')
+printText(fname)
+print('---------------------')
