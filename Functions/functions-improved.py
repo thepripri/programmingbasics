@@ -37,6 +37,14 @@ def calculate(num1, num2, marker):
     return operation
 
 
+# Return multiple values
+def returnMultipleValues():
+    subject1 = input('Enter subject 1 >> ')
+    subject2 = input('Enter subject 2 >> ')
+    subject3 = input('Enter subject 3 >> ')
+    return subject1, subject2, subject3
+
+
 # ----------- User input -----
 n1 = int(input('Enter first number >> '))
 n2 = int(input('Enter second number >> '))
@@ -67,4 +75,16 @@ print(f'{n1} elevated to the power of {n2} is {exponent2} from function powerOf2
 print()
 print('---------------------')
 printText(fname)
+print('---------------------')
+
+
+print()
+print('---------------------')
+# receive multiple values returned from the returnMultipleValues() function
+s1, s2, s3 = returnMultipleValues()
+print(f'''
+      subject 1: {s1}
+      subject 2: {s2}
+      subject 3: {s3}
+      ''')
 print('---------------------')
