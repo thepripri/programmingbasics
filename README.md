@@ -1,1 +1,6 @@
 # This repo is solely intended for my students to learn the basics of programming
+
+<h2>Topics covered in class:</h2>
+<ol>
+  <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Data%20Types/datatypes.py" target="_blank">Data Types</a><li>
+</ol>
