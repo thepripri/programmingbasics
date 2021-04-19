@@ -7,10 +7,13 @@ system('clear')
 
 isNotZero = False 
 
+
+# --- Functions ----
+
 def printText(name):
     print(f'hello, {name}')
 
-# --- Functions ----
+
 def calculate(num1, num2, marker):    
     if(marker == 'add'):
         operation = num1 + num2 
