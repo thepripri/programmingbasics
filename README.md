@@ -4,6 +4,12 @@
 <ol>
   <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Data%20Types/datatypes.py" target="_blank">Data Types</a></li>
   <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Functions/functions.py" target="_blank">Functions</a></li>
+  <li><a href=https://github.com/dunieskiotano/programmingbasics/tree/master/Conditionals" target="_blank">Conditionals</a></li>
+    <ul>
+    <li><a href></a></li>
+    </ul>
+  <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Functions/functions.py" target="_blank">Functions</a></li>
+  <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Functions/functions.py" target="_blank">Functions</a></li>
 </ol>
 
 
