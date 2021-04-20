@@ -6,7 +6,7 @@
   <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Functions/functions.py" target="_blank">Functions</a></li>
   <li><a href=https://github.com/dunieskiotano/programmingbasics/tree/master/Conditionals" target="_blank">Conditionals</a></li>
     <ul>
-    <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Conditionals/if-statement.py>If Statement</a></li>
+    <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Conditionals/if-statement.py">If Statement</a></li>
     </ul>
   <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Functions/functions.py" target="_blank">Functions</a></li>
   <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Functions/functions.py" target="_blank">Functions</a></li>
