@@ -18,8 +18,10 @@
     <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Collections/Tuples/tuples.py">Tuples</a></li>  
     <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Collections/Sets/sets.py">Sets</a></li>  
     </ul>
+  <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Loops/loops.py" target="_blank">Loops</a></li>
   <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/Challenge%20Solution/challenge.py" target="_blank">Challenge Solution</a></li>
   <li><a href="https://github.com/dunieskiotano/programmingbasics/blob/master/test.html" target="_blank">HTML Sample</a></li>
 </ol>
+
 
 
