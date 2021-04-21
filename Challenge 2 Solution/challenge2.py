@@ -33,7 +33,6 @@ for car in carList:
 print(carList)
 
 # BONUS Question 13:
-
 namesList = ['Dunieski', 'Nathan', 'Priya', 'Yukta', 'Priyanka', 'Wendy', 'Yanet', 'Bryan', 'John', 'Kenneth']
 agesList = [20, 21, 22, 23, 24, 22, 25, 27, 19, 20]
 
@@ -47,6 +46,22 @@ myNamesAndAgesDictionary['Abdul'] = 25
 
 for key, value in myNamesAndAgesDictionary.items():
     print(f"'{key}': {value}")
+
+# Extra
+myNewDictionary = {}
+numberOfPeople = int(input('How many people do you want to add to my dictionary? >> '))
+counter = 1
+
+for index in range(numberOfPeople):
+    print(f'Person # {counter}: ')
+    name = input('Enter the name >> ')
+    age = int(input('Enter age >> '))
+    myNewDictionary[name] = age
+    counter+=1
+
+for key, value in myNewDictionary.items():
+    print(f"'{key}': {value}")
+
 
 
 
