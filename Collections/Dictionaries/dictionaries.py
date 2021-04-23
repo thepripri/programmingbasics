@@ -28,3 +28,6 @@ for key in myDictionary:
     print(f'{key}: {myDictionary.get(key)}')
 
 print(myDictionary.get('fruit2'))
+
+print(myDictionary.keys()) 
+print(myDictionary.values())
