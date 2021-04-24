@@ -1,8 +1,3 @@
-import os
-from os import system 
-
-system('clear')
-
 fruit = input('Enter a fruit >> ')
 size = input('Enter a size .. [small, medium, large or xlarge] >> ')
 

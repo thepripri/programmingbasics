@@ -1,8 +1,3 @@
-import os
-from os import system 
-
-system('clear')
-
 # To create a list, use [...]
 
 # list of strings

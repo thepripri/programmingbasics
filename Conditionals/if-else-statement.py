@@ -1,8 +1,3 @@
-import os
-from os import system 
-
-system('clear')
-
 num = int(input('Enter a number >> '))
 
 if (num > 10):

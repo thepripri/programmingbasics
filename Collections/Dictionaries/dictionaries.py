@@ -1,8 +1,3 @@
-import os
-from os import system 
-
-system('clear')
-
 # To create a dictionary, use {} but it's a key-value pair
 # dictionaries allow duplicates
 # they are ordered, in others words, order is guaranteed
@@ -23,7 +18,7 @@ for key in myDictionary:
 print(myDictionary['fruit1'])
 
 print('---------------------------')
-# name_of_dictionary.get(key) => print the value
+#2. name_of_dictionary.get(key) => print the value
 for key in myDictionary:
     print(f'{key}: {myDictionary.get(key)}')
 

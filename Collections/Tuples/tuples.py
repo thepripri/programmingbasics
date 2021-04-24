@@ -1,8 +1,3 @@
-import os
-from os import system
-
-system('clear')
-
 # To create a tuple, use (...)
 
 integerTuple = (3, 5, 7, 2, 4)  # tuple of integers
